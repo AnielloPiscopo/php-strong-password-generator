@@ -7,11 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP Password Generator</title>
 </head>
-
-<?php 
-function generateRngPassword($length){
-    return bin2hex(random_bytes($length));
-}
+<?php
+include_once __DIR__ . '/function.php';
 ?>
 
 <body>
