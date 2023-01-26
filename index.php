@@ -16,10 +16,9 @@
 
         <p>
             <?php
-            session_start();
-            if(!empty($_SESSION['rngPassword'])){
+                session_start();
+                
                 echo $_SESSION['rngPassword']; 
-            }
             ?>
         </p>
 
