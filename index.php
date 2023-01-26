@@ -10,7 +10,7 @@
 
 <?php 
 function generateRngPassword($length){
-    return random_bytes($length);
+    return bin2hex(random_bytes($length));
 }
 ?>
 
