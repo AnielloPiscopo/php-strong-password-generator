@@ -8,8 +8,25 @@
     <title>PHP Password Generator</title>
 </head>
 
-<body>
+<?php 
+function generateRngPassword($length){
+    return random_bytes($length);
+}
+?>
 
+<body>
+    <main>
+        <form action="./index.php" method="GET">
+            <input type="text" placeholder="Inserisci la lunghezza della password" name="user-length">
+        </form>
+
+        <?php 
+        $userLength = $_GET['user-length'];
+        echo  "<p>";
+        echo generateRngPassword(intval($userLength , 10));
+        echo "</p>";
+        ?>
+    </main>
 </body>
 
 </html>
