@@ -18,7 +18,9 @@
             <?php
                 session_start();
                 
-                echo $_SESSION['rngPassword']; 
+                if(isset($_SESSION['rngPassword'])){
+                    echo $_SESSION['rngPassword']; 
+                }
             ?>
         </p>
 
