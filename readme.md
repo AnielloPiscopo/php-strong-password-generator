@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style&logo=JavaScript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PHP-777BB4.svg?style&logo=PHP&logoColor=white" alt="PHP" />
 <br>PHP-STRONG-PASSWORD-GENERATOR
 </h1>
 <h3>◦ Simple password generator made with PHP</h3>
