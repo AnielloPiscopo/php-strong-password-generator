@@ -1,10 +1,11 @@
 <div align="center">
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
-<br>php-strong-password-generator
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style&logo=JavaScript&logoColor=black" alt="JavaScript" />
+<br>PHP-STRONG-PASSWORD-GENERATOR
 </h1>
-<h3>◦ HTTPStatus Exception: 429</h3>
-<h3>◦ Developed with the software and tools listed below.</h3>
+<h3>◦ Simple password generator made with HTML, CSS , bootstrap and JS</h3>
+<h3>◦ Developed during the course of Full-Stack Web Developer with Boolean</h3>
+<h3>◦ Main Link: https://aniellopiscopo.github.io/js-array-objects-carousel/</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PHP-777BB4.svg?style&logo=PHP&logoColor=white" alt="PHP" />
